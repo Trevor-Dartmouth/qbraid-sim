@@ -3,31 +3,22 @@
   "version": "0.0.1",
   "description": "Javascript Quantum Simulator",
   "homepage": "http://qbraid.com",
-  "keywords": ["javascript", "quantum", "simulator", "quantum simulator", "javascript quantum simulator"],
+  "keywords": ["javascript", "quantum", "simulator", "quantum simulator", "javascript quantum simulator", "qbraid"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Trevor-Dartmouth/qbraidsim.git"
+    "url": "https://github.com/Trevor-Dartmouth/qbraid-sim.git"
   },
   "author": {
     "name": "Trevor Glasgow",
     "url": "http://qbraid.com"
   },
   "dependencies": {
-    "superagent": "0.9.0",
-    "btoa": "*"
   },
 
   "devDependencies": {
-    "docco": "0.3.0",
-    "mocha": "1.7.4",
-    "should": "1.2.1",
-    "connect": "2.7.1",
-    "coffee-script": "*",
-    "highlight": "0.2.2",
-    "express": "3.0.5"
   },
   "main": "index",
   "scripts": {
-    "test": "make test"
+    
   }
 }
